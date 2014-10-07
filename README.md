@@ -1,4 +1,4 @@
 fastbit-index-test-win
 ======================
 
-Smallest fastbit project for testing bitmap coding scheme with MircoSoft Visual Studio 2012.
+The smallest project for testing bitmap coding scheme in FastBit with MircoSoft Visual Studio 2012.
